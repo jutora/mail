@@ -11,5 +11,6 @@ end
 gem 'jruby-openssl', :platforms => :jruby
 
 gem 'mini_mime'
+gem 'parallel', '~> 1.22.1'
 
 gem 'byebug', :platforms => :mri
